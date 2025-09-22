@@ -5,7 +5,7 @@ We greatly value your time, so please focus on demonstrating your approach rathe
 ## Task Overview
 
 ### 1. Baseline Sales Forecasting Model
-- Use the [Iowa Liquor Sales dataset](https://console.cloud.google.com/marketplace/details/iowa-department-of-commerce/iowa-liquor-sales) to create a **baseline model** predicting total weekly liquor sales (SGD) in Iowa.
+- Use the [Iowa Liquor Sales dataset](https://console.cloud.google.com/marketplace/details/iowa-department-of-commerce/iowa-liquor-sales) to create a **baseline model** predicting total weekly liquor sales (USD) in Iowa.
 - Forecast **4 weeks ahead** for **ISO weeks CY2024 W10–W13**.  
   For example, at week 10, forecast weeks 11–14; at week 13, forecast weeks 14–17, and so on.
 - For each week, you can use all available data **up to that week**—any model is fine.
