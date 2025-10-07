@@ -32,4 +32,4 @@ We greatly value your time, so please focus on demonstrating your approach rathe
 - Document and explain any assumptions, decisions, or shortcuts (e.g., due to time constraints).  
 - You are free to choose your tools and format, but your documentation should clearly explain your process and reasoning.  
 - Use Python and any other tools you are comfortable with for ETL and pipeline development.  
-- Share your code and documentation with your interviewers using a version control system (e.g., GitHub) and restrict public access.  
+- Share your code and documents with github account jintao-li-one or mail jintao.li@one-line.com using a version control system of your choice (GitHub etc.) and restrict public access.
