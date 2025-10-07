@@ -22,5 +22,4 @@ Please keep the following in mind while working on this exercise:
 - Document and explain any assumptions, decisions, or shortcuts you take (e.g., due to time constraints).
 - You are free to choose your tools and format, but your documentation should clearly explain your process and reasoning.
 - Use Python and any other tools you are comfortable with for data processing, modeling, and deployment.
-- Share your code and documents with your interviewers using a version control system of your choice (GitHub etc.) and restrict public access.
-
+- Share your code and documents with github account jintao-li-one or mail jintao.li@one-line.com using a version control system of your choice (GitHub etc.) and restrict public access.
